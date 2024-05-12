@@ -10,7 +10,7 @@ let currentY = height - 350;
 let hasBeeped = false;
 let context = null;
 
-// beep code from https://stackoverflow.com/questions/879152/how-do-i-make-javascript-beep
+//beep code from https://stackoverflow.com/questions/879152/how-do-i-make-javascript-beep
 const beep = (freq = 200, duration = 300, vol = 100) => {
   const oscillator = context.createOscillator();
   const gain = context.createGain();
