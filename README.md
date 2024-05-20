@@ -17,4 +17,9 @@ Holding down any key will make a rocket rise towards the moon. Once rocket reach
 ## Star mover
 Skill: basic mouse movement towards target
 
-A yellow star will follow the curson on the screen, and a small blue star will jump to a random location if hit with the yellow star
+A yellow star will follow the curson on the screen, and a small blue star will jump to a random location if hit with the yellow star.
+
+## Muncher
+Skill: pressing specific keys to move in two directions
+
+A large pacman-like Muncher can be moved left and right with arrow keys to eat fruit.
